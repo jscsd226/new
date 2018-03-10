@@ -6,8 +6,16 @@
           <option name="url" value="https://github.com/jscsd226/androidstdio_project.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/yuanfang226/androidstio_connect.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jscsd226/androidstio_connect.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\androidstdio_project" />
+    <option name="cloneParentDir" value="D:\androidstio_project" />
   </component>
 </application>
